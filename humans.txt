@@ -1,15 +1,15 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-# TEAM
+# CAMBIO02
 
     <name> -- <role> -- <twitter>
 
-# THANKS
+# CAMBIO02
 
     <name>
 
-# TECHNOLOGY COLOPHON
+# CAMBIO02
 
     HTML5, CSS3
     jQuery, Modernizr
