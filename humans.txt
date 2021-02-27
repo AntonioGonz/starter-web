@@ -1,11 +1,11 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-# CAMBIO02
+# TEAM
 
     <name> -- <role> -- <twitter>
 
-# CAMBIO02
+# CAMBIO01
 
     <name>
 
