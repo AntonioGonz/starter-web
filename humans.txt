@@ -14,5 +14,4 @@
     HTML5, CSS3
     jQuery, Modernizr
 
-otros cambios en master
-changes
+https://www.youtube.com/watch?v=78I7YdGSsYw&list=PL76bgLi48dt5h4dljDXzx_oQtWsur5WPC&index=4
