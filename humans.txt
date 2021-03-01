@@ -5,11 +5,11 @@
 
     <name> -- <role> -- <twitter>
 
-# CAMBIO01
+# CAMBIO 01
 
     <name>
 
-# CAMBIO02
+# CAMBIO 02
 
     HTML5, CSS3
     jQuery, Modernizr
