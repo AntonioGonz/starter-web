@@ -6,7 +6,7 @@
     <!-- Most restrictive policy: -->
     <site-control permitted-cross-domain-policies="none"/>
 
-    <!-- Least restrictive policy: -->
+    <!-- Least restrictive policy: -->asdasd
     <!--sdasdasd
     <site-control permitted-cross-domain-policies="all"/>
     <allow-access-from domain="*" to-ports=sdasd"*" secure="false"/>
@@ -14,6 +14,6 @@
     -->
 </cross-domain-policy>sdasdasd
 asdasdasdasd
-asdasd
+asdasdasds
 asdasdasd
 asd
